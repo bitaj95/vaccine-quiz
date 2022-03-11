@@ -1,6 +1,6 @@
 import React from "react";
 
-const meningitis = () => {
+const Meningitis = () => {
   return <div>meningitis</div>;
 };
 

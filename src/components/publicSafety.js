@@ -1,6 +1,6 @@
 import React from "react";
 
-const publicSafety = () => {
+const PublicSafety = () => {
   return <div>publicSafety</div>;
 };
 

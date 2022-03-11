@@ -1,7 +1,7 @@
 import React from "react";
 
-const medicalConditions = () => {
-  return <div>medicalConditions</div>;
+const MedicalConditions = () => {
+  return <div>M</div>;
 };
 
-export default medicalConditions;
+export default M;
