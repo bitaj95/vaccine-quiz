@@ -4,4 +4,4 @@ const MedicalConditions = () => {
   return <div>M</div>;
 };
 
-export default M;
+export default MedicalConditions;

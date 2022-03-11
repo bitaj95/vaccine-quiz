@@ -4,4 +4,4 @@ const WorkCondition = () => {
   return <div>workCondition</div>;
 };
 
-export default workCondition;
+export default WorkCondition;

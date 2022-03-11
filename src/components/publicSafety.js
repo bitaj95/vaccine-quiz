@@ -4,4 +4,4 @@ const PublicSafety = () => {
   return <div>publicSafety</div>;
 };
 
-export default publicSafety;
+export default PublicSafety;

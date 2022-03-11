@@ -4,4 +4,4 @@ const Results = () => {
   return <div>results</div>;
 };
 
-export default results;
+export default Results;

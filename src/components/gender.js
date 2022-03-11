@@ -4,4 +4,4 @@ const Gender = () => {
   return <div>gender</div>;
 };
 
-export default gender;
+export default Gender;

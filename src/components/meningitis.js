@@ -4,4 +4,4 @@ const Meningitis = () => {
   return <div>meningitis</div>;
 };
 
-export default meningitis;
+export default Meningitis;

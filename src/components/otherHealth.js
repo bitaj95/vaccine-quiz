@@ -4,4 +4,4 @@ const OtherHealth = () => {
   return <div>otherHealth</div>;
 };
 
-export default otherHealth;
+export default OtherHealth;

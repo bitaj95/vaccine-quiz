@@ -4,4 +4,4 @@ const Age = () => {
   return <div>age</div>;
 };
 
-export default age;
+export default Age;
