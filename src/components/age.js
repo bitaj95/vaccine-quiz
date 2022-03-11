@@ -1,6 +1,6 @@
 import React from "react";
 
-const Age = () => {
+const Age = ({ nextStep, handleChange, values }) => {
   return <div>age</div>;
 };
 
